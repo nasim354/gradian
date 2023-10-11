@@ -1,5 +1,5 @@
 body{
-    /* background-image: linear-gradient(rgba(200, 100, 44, 0.5),rgba(44, 100, 200, 0.8)),url(img/border-imges.png); */
+    background-image: linear-gradient(rgba(240, 174, 136, 0.5),rgba(189, 211, 248, 0.8)),url(img/border-imges.png);
 }
 
 .box{
@@ -9,7 +9,7 @@ body{
     margin: 10px;
     box-shadow: 10px 10px 30px rgb(68, 100, 214);
     border: none;
-    transform:rotate(300deg);
+    transform:rotate( 45deg);
     animation-duration:10s;
     animation-name: auto;
     
