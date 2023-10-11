@@ -1,0 +1,40 @@
+body{
+    /* background-image: linear-gradient(rgba(200, 100, 44, 0.5),rgba(44, 100, 200, 0.8)),url(img/border-imges.png); */
+}
+
+.box{
+    width: 500px;
+    height: 350px;
+    border: 1px solid;
+    margin: 10px;
+    box-shadow: 10px 10px 30px rgb(68, 100, 214);
+    border: none;
+    transform:rotate(300deg);
+    animation-duration:10s;
+    animation-name: auto;
+    
+   
+}
+ .box:hover{
+    box-shadow: 10px 10px 30px rgb(0, 249, 0);
+ }
+    
+
+
+.container{
+    margin-top: 20px;
+
+
+}
+.box-1{
+    background-image: linear-gradient(110deg, rgb(235, 56, 56), rgb(190, 147, 69), rgb(144, 96, 144));
+}
+.box-2{
+    background-image: linear-gradient(30deg, rgb(194, 191, 88), rgb(184, 85, 246), rgb(109, 221, 95));
+}
+.box-3{
+    background-image: linear-gradient( 30deg, rgb(107, 213, 107), rgb(204, 204, 99), rgb(151, 75, 61));
+}
+.box-4{
+    background-image: linear-gradient( 30deg, rgb(38, 195, 137), rgb(139, 69, 130), rgb(25, 167, 180));
+}
